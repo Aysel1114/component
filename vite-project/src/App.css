@@ -1,0 +1,13 @@
+.message-button {
+    border-radius: 5px;
+}
+
+.message-button_white {
+    background-color: white;
+    color: black;
+}
+
+.message-button_blue {
+    background-color: blue;
+    color: white;
+}
